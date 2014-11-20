@@ -1,0 +1,56 @@
+{
+  "name": "et-express-error-handlers",
+  "version": "0.0.1",
+  "description": "Default set of express error handlers and their tempaltes",
+  "main": "./lib/error-handlers",
+  "config": {
+    "travis-cov": {}
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.exacttarget.com:NodeModules/et-express-error-handlers.git"
+  },
+  "dependencies": {
+    "express": "~3.4.7",
+    "express-handlebars": "~1.1.0"
+  },
+  "author": {
+    "name": "Scott Rini",
+    "email": "srini@exacttarget.com"
+  },
+  "devDependencies": {
+    "blanket": "~1.1.6",
+    "chai": "~1.9.1",
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-mocha-test": "~0.11.0",
+    "sinon": "~1.7.3",
+    "supertest": "~0.8.2",
+    "travis-cov": "~0.2.5"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "a210907af90c16367260600016ad556d1f100243",
+  "_id": "et-express-error-handlers@0.0.1",
+  "_shasum": "3a8ff64dd0a12083bea0d8b08d7a35599aba44bb",
+  "_from": "et-express-error-handlers@~0.0.1",
+  "_npmVersion": "1.4.13",
+  "_npmUser": {
+    "name": "srini",
+    "email": "srini@exacttarget.com"
+  },
+  "maintainers": [
+    {
+      "name": "srini",
+      "email": "srini@exacttarget.com"
+    }
+  ],
+  "dist": {
+    "shasum": "3a8ff64dd0a12083bea0d8b08d7a35599aba44bb",
+    "tarball": "http://npm.xexacttargetapps.com/et-express-error-handlers/-/et-express-error-handlers-0.0.1.tgz"
+  },
+  "_resolved": "http://npm.xexacttargetapps.com/et-express-error-handlers/-/et-express-error-handlers-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
